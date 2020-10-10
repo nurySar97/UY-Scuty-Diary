@@ -1,0 +1,45 @@
+.theme__photo {
+    display: flex;
+    flex-direction: column;
+    margin-right: 10px;
+    margin-left: 10px;
+    cursor: pointer;
+    padding: 20px;
+    margin-top: 20px;
+    transition: box-shadow .2s linear,transform .2s linear;
+}
+
+
+.theme__img {
+    width: 300px;
+    height: 350px;
+    transition: transform .2s linear;
+    border-radius: 20px;
+    filter: brightness(40%);
+}
+
+
+.theme__img:hover {
+    transform: scale(1.05);
+}
+
+
+.theme__button  {
+    font-size: 18px;
+    width: 130px;
+    height: 40px;
+    padding: 4px;
+    cursor: pointer;
+    border-radius:4px;
+    background-color: rgb(28, 115, 197);
+    color: white;
+    margin-right: 20px;
+    margin-bottom: 20px;
+}
+
+.theme__button:focus {
+    box-shadow: 0 0 2px rgb(0, 0, 0);
+    border: 2px solid rgb(102, 153, 201);
+}
+
+

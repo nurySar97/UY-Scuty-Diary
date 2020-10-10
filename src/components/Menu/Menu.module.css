@@ -1,0 +1,75 @@
+.menu__link {
+  text-decoration: none;
+  color: white;
+  font-size: 28px;
+  font-weight: 700;
+}
+
+ul {
+  list-style: none;
+}
+
+ul li {
+margin-bottom: 20px;
+}
+
+
+.BurgerMenu__link {
+  margin-left: 10px;
+  text-decoration: none;
+  font-size: 26px;
+  color: white;
+  margin-bottom: 20px;
+  font-weight: bold;
+}
+
+
+.active {
+  font-weight: bold;
+  color: yellow;
+}
+
+
+.BurgerMenu__navItems {
+  width: 100%;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+}
+
+
+.BurgerMenu__navItem {
+  margin-bottom: 30px;
+}
+
+
+.BurgerMenu__navItem i {
+  font-size: 30px;
+}
+
+
+.menu__title {
+  display: flex;
+  align-items: center;
+  width: 100%;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+
+.menu__title_logo {
+  margin-right: 10px;
+}
+
+.menu__title_img {
+  border-radius: 50%;
+  width: 70px;
+  height: 70px;
+}
+
+
+.menu__title_name {
+  font-size: 30px;
+  font-weight: 700;
+  text-shadow: 5px 5px black;
+}

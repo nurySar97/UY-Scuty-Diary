@@ -1,0 +1,105 @@
+button, img, input {
+    padding: 0;
+    margin: 0;
+    border: 0;
+    outline: none;
+}
+
+.List {
+    background-color: #0b60b6;
+    margin: 0;
+    padding: 0;
+    display: block;
+    width: 100%;
+    margin-bottom: 10px;
+    padding: 10px;
+    border-radius: 18px;
+}
+
+
+.List__inner {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+
+
+.List__inputText {
+    width: 85%;
+    font-family: fangsong;
+    margin: 0;
+    padding: 0;
+    display: block;
+    font-size: 24px;
+    border: 0;
+    outline: none;
+    height: 32px;
+    background-color: rgb(189, 195, 207);
+    font-weight: normal;
+    border-radius: 5px;
+    margin-right: 5px;
+}
+
+
+.List__inputText::placeholder {
+    color: black;
+    opacity: .5;
+}
+
+.List__text {
+    width: 77%;
+    word-wrap: break-word;
+    font-family: fangsong;
+    letter-spacing: -1;
+    margin: 0;
+    padding: 0;
+    display: block;
+    font-size: 24px;
+    min-height: 30px;
+    height: 100%;
+    padding-top: 2px;
+}
+
+
+.List__items {
+    display: flex;
+    justify-content: space-between;
+}
+
+
+.List__removeButton {
+    width: 20px;
+    height: 20px;
+}
+
+
+.List__changeButton {
+    width: 20px;
+    height: 20px;
+}
+
+
+.List__saveButton {
+    width: 20px;
+    height: 20px;
+    border-radius: 3px 6px 3px 3px;
+}
+
+.List__imgIconSave {
+    width: 20px;
+    height: 20px;
+    border-radius: 3px 6px 3px 3px;
+}
+
+
+.List__imgIconPen {
+    width: 20px;
+    height: 20px;
+}
+
+
+.List_checkbox {
+    width: 20px;
+    height: 20px;
+}

@@ -1,0 +1,133 @@
+.TodoList {
+    width: 100%;
+    height: 100%;
+    min-height: 100vh;
+    /* background-color: rgb(20, 167, 106); */
+    padding-top: 100px;
+    z-index: -110;
+}
+
+.container {
+    padding-left: 100px;
+    padding-right: 100px;
+}
+
+.TodoList__inner {
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+}
+
+
+.TodoList__form_container {
+    margin-right: 20px;
+    width: 47%;
+    height: 50px;
+}
+
+
+.TodoList__form {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+}
+
+
+.TodoList__form_inner {
+    display: block;
+    width: 100%;
+    max-width: 700px;
+}
+
+
+
+.TodoList__input_text {
+    border-bottom: 2px solid rgb(0, 0, 0);
+    font-size: 24px;
+    height: 34px;
+    margin-bottom: 20px;
+    width: 100%;
+    background-color: transparent;
+    padding: 7px;
+    border-radius: 0px;
+    color: rgb(0, 0, 0);
+    outline: none;
+    z-index: -10;
+}
+
+.TodoList__input_text::placeholder {
+    text-align: center;
+    padding: 0;
+    font-size: 24px;
+    color: #000000;
+    opacity: .7;
+    transition: font-size .2s linear;
+}
+
+input::placeholder {
+    z-index: -1000;
+}
+
+.TodoList__input_text:focus::placeholder {
+    font-size: 22px;
+    color: #efefef;
+    opacity: .4;
+}
+
+
+
+.TodoList__buttons {
+    width: 250px;
+    display: flex;
+    justify-content: space-between;
+}
+
+
+
+.TodoList__Btn_addWork {
+    font-size: 18px;
+    width: 130px;
+    height: 40px;
+    padding: 4px;
+    cursor: pointer;
+    border-radius:4px;
+    background-color: rgb(28, 115, 197);
+    color: white;
+    margin-right: 20px;
+}
+
+
+.TodoList__Btn_Clear {
+    font-size: 18px;
+    width: 130px;
+    height: 40px;
+    padding: 4px;
+    cursor: pointer;
+    border-radius:4px;
+    background-color: rgb(255, 0, 0);
+    color: white;
+    margin-left: 20px;
+}
+
+
+.TodoList__Btn_addWork:focus {
+    box-shadow: 0 0 2px rgb(0, 0, 0);
+    border: 2px solid rgb(102, 153, 201);
+}
+
+
+.TodoList__Btn_Clear:focus {
+    box-shadow: 0 0 2px rgb(0, 0, 0);
+    border: 2px solid  rgb(199, 96, 96);
+}
+
+
+.TodoList__List {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    width: 48%;
+    margin: 0;
+    padding: 0;
+    margin-left: 20px;
+}

@@ -1,0 +1,14 @@
+.themeGalery {
+    display: flex;
+    width: 1200px;
+    justify-content: center;
+    align-items: center;
+    height: 600px;
+}
+
+
+.themeGalery__img {
+    width: 1200px;
+    height: 700px;
+    border-radius: 30px;
+}

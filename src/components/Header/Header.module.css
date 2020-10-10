@@ -1,0 +1,99 @@
+.header {
+    position: fixed;
+    top: 0;
+    width: 100%;
+    background-color: #d6d7ad;
+    z-index: 10;
+}
+
+
+.container {
+    margin: 0 auto;
+    width: 100%;
+    height: auto;
+}
+
+
+.header__inner {
+    z-index: 11;
+    display: flex;
+    height: 70px;
+    justify-content: space-between;
+    align-items: center;
+    padding-left: 100px;
+    padding-right: 50px;
+}
+
+
+
+.header__logo {
+    margin-top: 4px;
+}
+
+
+
+
+.header__logo_img {
+    width: 50px;
+    border-radius: 50px;
+}
+
+
+
+.header__items {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 350px;
+    height: 100%;
+}
+
+
+
+.header__clock {
+    font: 400 13.3333px Arial;
+    display: flex;
+    align-items: center;
+    padding: 0px 5px 0px 5px;
+    height: 45px;
+    width: 160px;
+    border-radius: 5px;
+    font-size: 18px;
+    color:  rgb(19, 30, 41);
+    background-color:rgba(63, 77, 90,0.9);;
+    border: 3px solid #b29696;
+    border-radius: 10px;
+    transition: background-color .2s linear,color .2s linear;
+    font-weight: 700;
+    color: white;
+    cursor: pointer;
+    z-index: 1000;
+    justify-content: center;
+}
+
+.header__clock:hover {
+    background-color: rgb(62 64 65 / 90%);
+    color:rgb(202, 229, 255);
+}
+
+.header__button {
+    border: 3px solid #b29696;
+    background-color: rgba(63, 77, 90,0.9);;
+    border-radius: 10px;
+    font-size: 18px;
+    width: 160px;
+    height: 45px;
+    cursor: pointer;
+    padding: 3px;
+    transition: background-color .2s linear,color .2s linear;
+    font-weight: 700;
+    color: white;
+}
+
+
+
+.header__button:hover {
+    background-color: rgb(62 64 65 / 90%);
+    color: rgb(202, 229, 255);
+}
+
