@@ -1,29 +1,29 @@
 {
   "files": {
-    "main.css": "/UY-Scuty-Diary/static/css/main.0fe8e629.chunk.css",
-    "main.js": "/UY-Scuty-Diary/static/js/main.1922947e.chunk.js",
-    "main.js.map": "/UY-Scuty-Diary/static/js/main.1922947e.chunk.js.map",
-    "runtime-main.js": "/UY-Scuty-Diary/static/js/runtime-main.1ee36b4c.js",
-    "runtime-main.js.map": "/UY-Scuty-Diary/static/js/runtime-main.1ee36b4c.js.map",
-    "static/css/2.3317f794.chunk.css": "/UY-Scuty-Diary/static/css/2.3317f794.chunk.css",
-    "static/js/2.0e4588c9.chunk.js": "/UY-Scuty-Diary/static/js/2.0e4588c9.chunk.js",
-    "static/js/2.0e4588c9.chunk.js.map": "/UY-Scuty-Diary/static/js/2.0e4588c9.chunk.js.map",
-    "index.html": "/UY-Scuty-Diary/index.html",
-    "precache-manifest.0db4f9261c152ecffaed7ba439e044d0.js": "/UY-Scuty-Diary/precache-manifest.0db4f9261c152ecffaed7ba439e044d0.js",
-    "service-worker.js": "/UY-Scuty-Diary/service-worker.js",
-    "static/css/2.3317f794.chunk.css.map": "/UY-Scuty-Diary/static/css/2.3317f794.chunk.css.map",
-    "static/css/main.0fe8e629.chunk.css.map": "/UY-Scuty-Diary/static/css/main.0fe8e629.chunk.css.map",
-    "static/js/2.0e4588c9.chunk.js.LICENSE.txt": "/UY-Scuty-Diary/static/js/2.0e4588c9.chunk.js.LICENSE.txt",
-    "static/media/UY Scuti.PNG": "/UY-Scuty-Diary/static/media/UY Scuti.37573bf2.PNG",
-    "static/media/index.css": "/UY-Scuty-Diary/static/media/bg.f8e7be9e.jpg",
-    "static/media/pen Icon.jpg": "/UY-Scuty-Diary/static/media/pen Icon.13fd310d.jpg",
-    "static/media/save Icon.jpg": "/UY-Scuty-Diary/static/media/save Icon.70ce08d2.jpg"
+    "main.css": "/UY-Scuty-Diary/todo/static/css/main.c5171547.chunk.css",
+    "main.js": "/UY-Scuty-Diary/todo/static/js/main.d498dff8.chunk.js",
+    "main.js.map": "/UY-Scuty-Diary/todo/static/js/main.d498dff8.chunk.js.map",
+    "runtime-main.js": "/UY-Scuty-Diary/todo/static/js/runtime-main.9c55b928.js",
+    "runtime-main.js.map": "/UY-Scuty-Diary/todo/static/js/runtime-main.9c55b928.js.map",
+    "static/css/2.3317f794.chunk.css": "/UY-Scuty-Diary/todo/static/css/2.3317f794.chunk.css",
+    "static/js/2.0e4588c9.chunk.js": "/UY-Scuty-Diary/todo/static/js/2.0e4588c9.chunk.js",
+    "static/js/2.0e4588c9.chunk.js.map": "/UY-Scuty-Diary/todo/static/js/2.0e4588c9.chunk.js.map",
+    "index.html": "/UY-Scuty-Diary/todo/index.html",
+    "precache-manifest.0679039cc4d43d0a4684dc71673a92d9.js": "/UY-Scuty-Diary/todo/precache-manifest.0679039cc4d43d0a4684dc71673a92d9.js",
+    "service-worker.js": "/UY-Scuty-Diary/todo/service-worker.js",
+    "static/css/2.3317f794.chunk.css.map": "/UY-Scuty-Diary/todo/static/css/2.3317f794.chunk.css.map",
+    "static/css/main.c5171547.chunk.css.map": "/UY-Scuty-Diary/todo/static/css/main.c5171547.chunk.css.map",
+    "static/js/2.0e4588c9.chunk.js.LICENSE.txt": "/UY-Scuty-Diary/todo/static/js/2.0e4588c9.chunk.js.LICENSE.txt",
+    "static/media/UY Scuti.PNG": "/UY-Scuty-Diary/todo/static/media/UY Scuti.37573bf2.PNG",
+    "static/media/index.css": "/UY-Scuty-Diary/todo/static/media/bg.f8e7be9e.jpg",
+    "static/media/pen Icon.jpg": "/UY-Scuty-Diary/todo/static/media/pen Icon.13fd310d.jpg",
+    "static/media/save Icon.jpg": "/UY-Scuty-Diary/todo/static/media/save Icon.70ce08d2.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.1ee36b4c.js",
+    "static/js/runtime-main.9c55b928.js",
     "static/css/2.3317f794.chunk.css",
     "static/js/2.0e4588c9.chunk.js",
-    "static/css/main.0fe8e629.chunk.css",
-    "static/js/main.1922947e.chunk.js"
+    "static/css/main.c5171547.chunk.css",
+    "static/js/main.d498dff8.chunk.js"
   ]
 }
