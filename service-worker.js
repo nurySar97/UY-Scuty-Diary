@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/UY-Scuty-Diary/precache-manifest.abb4ed6e13018c3ec7d6882e100f4e64.js"
+  "/UY-Scuty-Diary/precache-manifest.0db4f9261c152ecffaed7ba439e044d0.js"
 );
 
 self.addEventListener('message', (event) => {

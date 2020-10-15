@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "6f7b41e767c3bed55cc373be3197bbec",
+    "revision": "e0308097767d8b156d598065b81360a6",
     "url": "/UY-Scuty-Diary/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/UY-Scuty-Diary/static/css/2.3317f794.chunk.css"
   },
   {
-    "revision": "dabc44db5c1645fe3d5b",
+    "revision": "7720a8c8b727b7732225",
     "url": "/UY-Scuty-Diary/static/css/main.0fe8e629.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/UY-Scuty-Diary/static/js/2.0e4588c9.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "dabc44db5c1645fe3d5b",
-    "url": "/UY-Scuty-Diary/static/js/main.118ed28b.chunk.js"
+    "revision": "7720a8c8b727b7732225",
+    "url": "/UY-Scuty-Diary/static/js/main.1922947e.chunk.js"
   },
   {
     "revision": "6f584ce868e76bc848ce",
