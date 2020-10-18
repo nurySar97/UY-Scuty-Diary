@@ -1,0 +1,13 @@
+.bodyApp {
+  position: relative;
+}
+
+.pages {
+  position: absolute;
+  top: 100px;
+  left: 0;
+  right: 0;
+}
+
+
+
