@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e0308097767d8b156d598065b81360a6",
+    "revision": "0420a37795036c98748082040ae0439c",
     "url": "/UY-Scuty-Diary/index.html"
   },
   {
-    "revision": "a297f37b5f987305696a",
+    "revision": "2b94e3c6b61148e1b331",
     "url": "/UY-Scuty-Diary/static/css/2.3317f794.chunk.css"
   },
   {
-    "revision": "7720a8c8b727b7732225",
-    "url": "/UY-Scuty-Diary/static/css/main.0fe8e629.chunk.css"
+    "revision": "a89397e6490946250fb5",
+    "url": "/UY-Scuty-Diary/static/css/main.cfa014d4.chunk.css"
   },
   {
-    "revision": "a297f37b5f987305696a",
-    "url": "/UY-Scuty-Diary/static/js/2.0e4588c9.chunk.js"
+    "revision": "2b94e3c6b61148e1b331",
+    "url": "/UY-Scuty-Diary/static/js/2.873fe9f0.chunk.js"
   },
   {
     "revision": "7b8402d31edc89b312c264c3810f08dd",
-    "url": "/UY-Scuty-Diary/static/js/2.0e4588c9.chunk.js.LICENSE.txt"
+    "url": "/UY-Scuty-Diary/static/js/2.873fe9f0.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "7720a8c8b727b7732225",
-    "url": "/UY-Scuty-Diary/static/js/main.1922947e.chunk.js"
+    "revision": "a89397e6490946250fb5",
+    "url": "/UY-Scuty-Diary/static/js/main.059c487a.chunk.js"
   },
   {
     "revision": "6f584ce868e76bc848ce",
